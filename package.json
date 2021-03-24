@@ -1,0 +1,12 @@
+{
+  "name": "NewJamstackTodoApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Zeeshan2193/NewJamstackTodoApp.git",
+  "author": "Zeeshan Ali <zeeshan2193@gmail.com>",
+  "license": "MIT",
+  "private": true, 
+  "workspace":[
+    "packages/*"
+  ]
+}
